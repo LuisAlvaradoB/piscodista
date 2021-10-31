@@ -16,9 +16,6 @@ sections:
   - post
 - type: heading
   label: Author
-- type: document
-  path: exampleSite/content/english/author/_index.md
-  label: Author Page (en)
 - type: directory
   path: exampleSite/content/english/author
   label: Author (en)
