@@ -6,9 +6,6 @@ webhook_url:
 sections:
 - type: heading
   label: Blog Post
-- type: document
-  path: exampleSite/content/english/post/_index.md
-  label: Blog Page (en)
 - type: directory
   path: exampleSite/content/english/post
   label: Post (en)
