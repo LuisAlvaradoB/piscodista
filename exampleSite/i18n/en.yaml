@@ -1,92 +1,92 @@
 - id: read_more
-  translation: Read More
+  translation: Leer más
 
 - id: search_placeholder
-  translation: Type & Hit Enter...
+  translation: Escriba y pulsa enter...
 
 - id: recent_post
-  translation: Recent Post
+  translation: Post recientes
 
 - id: authors
-  translation: Authors
+  translation: Autor
 
 - id: tags
   translation: Tags
 
 - id: categories
-  translation: Categories
+  translation: Categorías
 
 - id: search
-  translation: Search
+  translation: Buscar
 
 - id: date
-  translation: Date
+  translation: Fecha
 
 - id: send
-  translation: Send Now
+  translation: Enviar ahora
 
 - id: name
-  translation: Your Name
+  translation: Su nombre
 
 - id: email 
-  translation: Your Email Address
+  translation: Su Email
 
 - id: subject
-  translation: Reason For Contact
+  translation: Asunto
 
 - id: message
-  translation: Your Message Here
+  translation: Deje su mensaje aquí
 
 - id: subscribe
-  translation: Subscribe now
+  translation: Suscríbete ahora
 
 - id: subscribe_newsletter
-  translation: Subscribe Newsletter
+  translation: Suscríbete
 
 - id: social
-  translation: Social Links
+  translation: Redes Sociales
 
 - id: minute_read
-  translation: Min To Read
+  translation: Min de lectura
 
 - id: posts_by
-  translation: Posts by this author
+  translation: Posts de este autor
 
 - id: showing_from
-  translation: Showing items from
+  translation: Mostrando elementos de
 
 - id: search_for
-  translation: Search results for
+  translation: Resultados de búsqueda de
 
 - id: instagram_post
   translation: Instagram Post
 
 - id: editors_pick
-  translation: Editors Pick
+  translation: Selección del editor
 
 - id: trending_post
-  translation: Trending Post
+  translation: Tendencias
 
 - id: popular_post
-  translation: Popular Post
+  translation: Populares
 
 - id: about_me
-  translation: About me
+  translation: Sobre mí
 
 - id: subscribe_newsletter
-  translation: Never Miss A News
+  translation: Nunca te pierdas una noticia
 
 - id: back_to_home
-  translation: Back To Home
+  translation: Volver al inicio
 
 - id: subject
-  translation: Reason For Contact
+  translation: Asunto
 
 - id: visit_channel
-  translation: Visit Channel
+  translation: Visita nuestro canal
 
 - id: home
-  translation: Home
+  translation: Inicio
 
 - id: our_authors
-  translation: Our Authors
+  translation: Nuestros autores
