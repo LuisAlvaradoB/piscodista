@@ -1,5 +1,5 @@
 ---
-title: "Andrés Moraga"
+title: "Andres Moraga"
 image: "images/andres.png"
 email: "piscodista@gmail.com"
 description: "Periodista y apasionado por el Pisco"
