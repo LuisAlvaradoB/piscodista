@@ -28,3 +28,5 @@ fields:
   name: type
   label: type
   description: Available type (regular, epic, popular, trending)
+pages:
+- exampleSite/content/english/post/bartenders-texanos-se-consagran-como-masters-of-pisco-en-nueva-york.md
