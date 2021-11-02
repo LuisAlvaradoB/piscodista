@@ -1,14 +1,19 @@
-+++
-author = "Andres Moraga"
-categories = ["Actualidad Pisquera"]
-date = 2021-11-02T12:00:00Z
-description = "Consejeros piden acelerar tramitación del plan de apoyo a la defensa y promoción internacional de la denominación de origen pisco"
-images = "/images/whatsapp-image-2021-11-01-at-22-04-55-2.jpeg"
-tags = ["pisco"]
-title = "Consejeros piden acelerar tramitación del plan de apoyo a la defensa y promoción internacional de la denominación de origen pisco"
-type = "regular"
-
-+++
+---
+title: "Consejeros piden acelerar tramitación del plan de apoyo a la defensa y promoción internacional de la denominación de origen pisco"
+date: 2021-11-02T12:00:00Z
+# post thumb
+images:
+  - "/images/whatsapp-image-2021-11-01-at-22-04-55-2.jpeg"
+#author
+author: "Andres Moraga"
+# description
+description: "Consejeros piden acelerar tramitación del plan de apoyo a la defensa y promoción internacional de la denominación de origen pisco"
+# Taxonomies
+categories: ["Actualidad Pisquera"]
+tags: ["pisco"]
+type: "epic" # available type (epic, trending, popular, or regular)
+draft: false
+---
 En la última sesión ordinaria del CORE, desde la comisión de Fomento Productivo se solicitó a la Gobernadora que dé curso a la tramitación del plan, cuyo retraso podría implicar la perdida de los recursos gestionados a nivel central, con la consecuente afectación a cientos de familias y pequeños productores que viven de esta actividad
 
 Esto con el fin de evitar desperdiciar una oportunidad histórica para poner en valor esta actividad patrimonial centenaria que ha dado vida a las regiones de Atacama y Coquimbo durante más de tres siglos.
