@@ -2,7 +2,7 @@
 
 [[main]]
 name = "Inicio"
-URL = "homepage"
+URL = "/"
 weight = 1
 
 [[main]]
