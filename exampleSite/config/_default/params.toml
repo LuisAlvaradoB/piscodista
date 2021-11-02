@@ -46,6 +46,7 @@ preloader = "" # use jpg, png, svg or gif format.
 [background_shapes]
 enable = true
 # this image will be used as banner background
+
 banner_bg_image = "images/backgrounds/banner-bg.svg"
 # this image will be used as header background
 header_bg_image = "images/backgrounds/header-bg.svg"
