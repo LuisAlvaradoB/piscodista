@@ -1,12 +1,12 @@
 ---
-author = "Andrés Moraga"
-categories = ["Actualidad Pisquera"]
-date = 2021-11-02T11:00:00Z
-description = "Bartenders texanos se consagran  como masters of pisco en nueva york"
-images = "/images/whatsapp-image-2021-11-01-at-22-04-55.jpeg"
-tags = ["pisco", "bartender"]
-title = "Bartenders texanos se consagran  como masters of pisco en nueva york"
-type = "epic"
+author : "Andrés Moraga"
+categories : ["Actualidad Pisquera"]
+date : 2021-11-02T11:00:00Z
+description : "Bartenders texanos se consagran  como masters of pisco en nueva york"
+images : "/images/whatsapp-image-2021-11-01-at-22-04-55.jpeg"
+tags : ["pisco", "bartender"]
+title : "Bartenders texanos se consagran  como masters of pisco en nueva york"
+type : "epic"
 
 ---
 Los texanos Austin Foster y Andrew Schawel, quien es nieto de chilena, resultaron ganadores del primer Masters of Pisco, actividad de promoción organizada por ProChile con la colaboración de Pisco Chile para profundizar el posicionamiento de la categoría en el mercado estadounidense y por la influencia de Nueva York como trendsetter, en otros mercados también.
