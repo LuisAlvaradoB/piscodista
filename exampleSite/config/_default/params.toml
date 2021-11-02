@@ -87,26 +87,6 @@ sidebar = ["search", "promotion", "authors", "categories", "recent-post", "tags"
 
 ############################# social site ########################
 [[social]]
-name = "facebook"
-icon = "fab fa-facebook" # Fontawesome Icons : https://fontawesome.com/icons
-link = "#"
-
-[[social]]
-name = "twitter"
-icon = "fab fa-twitter" # Fontawesome Icons : https://fontawesome.com/icons
-link = "#"
-
-[[social]]
-name = "linkedin"
-icon = "fab fa-linkedin-in" # Fontawesome Icons : https://fontawesome.com/icons
-link = "#"
-
-[[social]]
-name = "github"
-icon = "fab fa-github" # Fontawesome Icons : https://fontawesome.com/icons
-link = "#"
-
-[[social]]
-name = "youtube"
-icon = "fab fa-youtube" # Fontawesome Icons : https://fontawesome.com/icons
-link = "#"
+name = "Instagram"
+icon = "fab fa-Instagram" # Fontawesome Icons : https://fontawesome.com/icons
+link = "https://www.instagram.com/piscodista/"
