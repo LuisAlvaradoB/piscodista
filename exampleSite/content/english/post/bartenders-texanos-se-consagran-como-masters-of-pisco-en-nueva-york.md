@@ -5,7 +5,7 @@ date: 2021-11-02T11:00:00Z
 images:
   - "/images/whatsapp-image-2021-11-01-at-22-04-55.jpeg"
 #author
-author: "Andrés Moraga"
+author: "Andres Moraga"
 # description
 description: "Bartenders texanos se consagran  como masters of pisco en nueva york"
 # Taxonomies
