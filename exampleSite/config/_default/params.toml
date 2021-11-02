@@ -31,11 +31,11 @@ banner = true
 # featured
 featured_post = true
 # layout
-post_layout= "full" # layout value (full, grid or list)
+post_layout= "grid" # layout value (full, grid or list)
 # Sidebar
 sidebar = "right" # sidebar value (left, right or false)
 # main taxonomy that will show at header and post card
-main_taxonomy = "tag" # optional value (tag or category)
+main_taxonomy = "category" # optional value (tag or category)
 
 # Preloader
 [preloader]
