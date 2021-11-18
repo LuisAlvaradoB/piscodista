@@ -1,6 +1,6 @@
 ---
 title: "Coquimbo busca por tercer año premiar al mejor cóctel en base a pisco"
-date: 2021-18-02T11:00:00Z
+date: 2021-11-18T11:00:00Z
 # post thumb
 images:
   - "/images/WhatsApp Image 2021-11-11 at 18.03.38.jpeg"
